@@ -1,10 +1,10 @@
-baseurl: /starter
+baseurl: /blog
 permalink: pretty
 markdown: kramdown
 prose:
   rooturl: '_posts'
-  siteurl: 'https://drchanmp.github.io/starter/'
-  relativeLinks: 'https://drchanmp.github.io/starter/links.jsonp'
+  siteurl: 'https://drchanmp.github.io/blog/'
+  relativeLinks: 'https://drchanmp.github.io/blog/links.jsonp'
   media: 'media'
   metadata:
     _posts:
